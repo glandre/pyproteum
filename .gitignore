@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# ProteumIM 2.0 report files
+*.lst
